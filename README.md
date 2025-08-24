@@ -16,10 +16,22 @@ Sentiment-Analysis-Product-Reviews/
 └── Sentiment_Analysis_Notebook.ipynb
 ```
 
-## 📊 Dataset
-- **File**: `reviews.csv`
-- **Description**: Contains product reviews and their associated sentiment labels.
-- **Source**: Uploaded manually to the `data/` folder in Google Drive.
+## 📂 Dataset Description
+The dataset contains product reviews with the following columns:
+- **Review** → The text of the customer review
+- **Sentiment** → The sentiment label (Positive, Negative, Neutral)
+
+- Number of records: ~50,000
+- Source: Kaggle
+
+## 📥 Download Dataset
+You can download the dataset directly from Kaggle:
+
+[👉 Click here to download from Kaggle](https://www.kaggle.com/datasets/INSERT-DATASET-LINK)
+
+---
+
+⚠️ Note: You need to be logged in to Kaggle to download the dataset.
 
 ## 🚀 How to Run
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
